@@ -1,0 +1,20 @@
+body{
+    background-color: #eeeeee;
+}
+.container{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 20px;
+}
+h1{
+   color: rgb(39, 221, 228);
+
+}
+#tableHead{
+    color: rgb(21, 6, 228);
+}
+#title{
+    
+    color: rgb(0, 255, 170);
+    font-weight: bold;
+}
